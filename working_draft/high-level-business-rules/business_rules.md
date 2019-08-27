@@ -30,7 +30,7 @@ _not clear yet: Accounting and Insurance Data fields_
 * "AIR_WAYBILL\CarrierSignature"
 
 _Routing must be provided due to Warsaw Convention / Montreal Agreement, but must be owned by Carrier_
-* "AIR_WAYBILL\BOOKING\SEGMENTDETAIL\(tbd)" _A concept is required to bring in c2k-Milestones here_
+* "AIR_WAYBILL\BOOKING\SEGMENTDETAIL\(tbd)" _A concept is required to bring in CargoIQ-Milestones here_
 
 
 ## The following rules are not clear if needed or not
